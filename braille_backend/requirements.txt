@@ -1,0 +1,26 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+
+opencv-python
+numpy
+pytesseract
+Pillow
+PyMuPDF
+pypdf
+
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+langchain-ollama
+langgraph
+sentence-transformers
+faiss-cpu
+
+pyserial
+
+#after downloadin ollama quent, run the following command to install the required packages pip install langchain-ollama
+#install ocr tesseract engine seprately https://sourceforge.net/projects/tesseract-ocr.mirror/
